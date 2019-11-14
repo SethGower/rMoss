@@ -1,0 +1,7 @@
+[package]
+name = "rmoss"
+version = "0.1.0"
+authors = ["Seth Gower <sdg7234@rit.edu>"]
+edition = "2018"
+
+[dependencies]
